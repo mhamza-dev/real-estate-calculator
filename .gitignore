@@ -2,6 +2,7 @@
 .DS_Store
 
 # Xcode
+.github/
 build/
 *.pbxuser
 !default.pbxuser
